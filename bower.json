@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "xprime-bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "3.3.4",
   "keywords": [
@@ -14,9 +14,9 @@
   ],
   "homepage": "http://getbootstrap.com",
   "main": [
-    "less/bootstrap.less",
-    "dist/css/bootstrap.css",
-    "dist/js/bootstrap.js",
+    "less/xprime-bootstrap.less",
+    "dist/css/xprime-bootstrap.css",
+    "dist/js/xprime-bootstrap.js",
     "dist/fonts/glyphicons-halflings-regular.eot",
     "dist/fonts/glyphicons-halflings-regular.svg",
     "dist/fonts/glyphicons-halflings-regular.ttf",

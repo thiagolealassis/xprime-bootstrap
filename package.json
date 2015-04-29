@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "xprime-bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "3.3.4",
   "keywords": [
@@ -16,8 +16,8 @@
   "scripts": {
     "test": "grunt test"
   },
-  "style": "dist/css/bootstrap.css",
-  "less": "less/bootstrap.less",
+  "style": "dist/css/xprime-bootstrap.css",
+  "less": "less/xprime-bootstrap.less",
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
@@ -75,13 +75,13 @@
     "LICENSE"
   ],
   "jspm": {
-    "main": "js/bootstrap",
+    "main": "js/xprime-bootstrap",
     "directories": {
       "example": "examples",
       "lib": "dist"
     },
     "shim": {
-      "js/bootstrap": {
+      "js/xprime-bootstrap": {
         "imports": "jquery",
         "exports": "$"
       }
