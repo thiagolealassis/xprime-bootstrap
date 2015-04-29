@@ -3,7 +3,7 @@
 Package.describe({
   name: 'xprime:bootstrap',  // http://atmospherejs.com/twbs/bootstrap
   summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
-  version: '3.3.4',
+  version: '3.3.4.0',
   git: 'https://github.com/thiagolealassis/xprime-bootstrap.git'
 });
 
